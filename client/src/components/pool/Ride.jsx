@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
-import { data } from '/Users/shubh kamra/hideout_proj_daa/hideout-project-DTI/client/src/data/pooldata';
+import { data } from '/media/rajan/DATA/Bennett/All/Projects/hideout-project-DTI/client/src/data/pooldata.js';
 
 const Ride = () => {
     const { id } = useParams();

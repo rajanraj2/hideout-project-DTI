@@ -6,7 +6,7 @@ import SwiperCore from 'swiper';
 import 'swiper/css/bundle';
 import ListingItem from '../components/ListingItem';
 import Hero from '../components/Hero.jsx'
-import HeadlineCards from './HeadlineCards'
+import HeadlineCards from './HeadLineCards.jsx'
 import Feature from './Features'
 // import Shared from './Shared'
 import Footer from './Footer.jsx';
